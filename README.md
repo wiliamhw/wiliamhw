@@ -2,7 +2,7 @@
 
 I am William Handi Wijaya. I am an undergraduate student of **Informatics ITS**. I am interested in Web Development and Data Science.
 
-- 🌱 I’m currently learning on **Laravel and NodeJS**.
+- 🌱 I’m currently learning **Laravel and NodeJS**.
 - 📫 You can reach me via:
     - [🌐 Website](https://cv2-whw.netlify.app/)
     - [📘 Linkedin](https://www.linkedin.com/in/wiliamhw/)
