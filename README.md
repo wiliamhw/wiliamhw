@@ -1,6 +1,6 @@
 ### Hi there, I'm William 👋
 
-I am Muhammad Daffa. I am an undergraduate student of **Informatics ITS**. I am interested in Web Development anda Data Science.
+I am William Handi Wijaya. I am an undergraduate student of **Informatics ITS**. I am interested in Web Development anda Data Science.
 
 - 🌱 I’m currently learning on **Laravel and NodeJS**...
 - 📫 You can reach me via:
