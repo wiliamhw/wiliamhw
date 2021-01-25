@@ -6,7 +6,6 @@ I am William Handi Wijaya. I am an undergraduate student of **Informatics ITS**.
 - 📫 You can reach me via:
     - [🌐 Website](https://cv2-whw.netlify.app/)
     - [📘 Linkedin](https://www.linkedin.com/in/wiliamhw/)
-    - [🔗 Instagram](https://www.instagram.com/wiliam_hw/)
     - [📧 E-Mail](mailto:wiliamwijaya1985@gmail.com)
 
 ## GitHub Stats
