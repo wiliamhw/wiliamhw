@@ -15,9 +15,3 @@ I am William Handi Wijaya. I am an undergraduate student of **Informatics ITS**.
     <img src="https://github-readme-stats.vercel.app/api?username=wiliamhw&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
     <img src="https://github-profile-trophy.vercel.app/?username=wiliamhw&no-frame=true&theme=nord&margin-w=27">
 </p>
-
-## Coding Activity
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wiliamhw&hide_border=true&theme=tokyonight&v=2" />
-</p>
