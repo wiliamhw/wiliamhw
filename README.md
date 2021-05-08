@@ -1,6 +1,6 @@
 ### Hi there, I'm William 👋
 
-I am William Handi Wijaya. I am an undergraduate student of **Informatics ITS**. I am interested in Web Development, especially in Back-End Development.
+I am William Handi Wijaya. I am an undergraduate student of **Informatics ITS**. I am interested in Web Development.
 
 -   📫 You can reach me via:
     -   [🌐 Website](https://cv2-whw.netlify.app/)
