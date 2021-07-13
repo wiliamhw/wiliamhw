@@ -3,7 +3,6 @@
 I am William Handi Wijaya. I am an undergraduate student of **Informatics ITS**. I am interested in Web Development. Currently learning on **Laravel**.
 
 -   📫 You can reach me via:
-    -   [🌐 Website](https://cv2-whw.netlify.app/)
     -   [📘 Linkedin](https://www.linkedin.com/in/wiliamhw/)
     -   [📧 E-Mail](mailto:wiliamwijaya1985@gmail.com)
 
