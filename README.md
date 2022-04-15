@@ -2,7 +2,7 @@
 
 I am William Handi Wijaya. I am an undergraduate student of **Informatics ITS**.  
 I am interested in Web Development, especially in Back-End Development.  
-I'm currently learning **Laravel**.
+I'm currently learning **Golang**.
 
 -   📫 You can reach me via:
     -   [📘 Linkedin](https://www.linkedin.com/in/wiliamhw/)
