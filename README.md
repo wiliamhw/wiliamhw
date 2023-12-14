@@ -2,9 +2,14 @@
 
 I am William Handi Wijaya. I am interested in Web Development, especially in Back-End Development.  
 
--   📫 You can reach me via:
-    -   [📘 Linkedin](https://www.linkedin.com/in/wiliamhw/)
-    -   [📧 E-Mail](mailto:wiliamwijaya1985@gmail.com)
+## Contact Me
+<a href="https://www.linkedin.com/in/wiliamhw/" target="_blank">
+  <img align="left" alt="William's LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+</a>
+<a href="mailto:wiliamhw2001@gmail.com" target="_blank">
+  <img align="left" alt="William's E-Mail" width="30px" src="https://img.icons8.com/color/48/000000/email.png" />
+</a>
+<br>
 
 ## GitHub Stats
 
