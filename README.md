@@ -13,6 +13,8 @@ I am William Handi Wijaya. I am interested in Web Development, especially in Bac
 
 ## Statistics
 <div>
-  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiliamhw&layout=compact&theme=react&hide=php&langs_count=6" />
-  <a href="https://wakatime.com/@wiliamhw"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=wiliamhw&layout=compact&theme=react&langs_count=6" /></a>
+  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiliamhw&layout=compact&theme=react" />
+</div>
+<div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wiliamhw&layout=compact&theme=react" alt="wiliamhw" />
 </div>
